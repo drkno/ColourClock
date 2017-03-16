@@ -1,0 +1,7 @@
+﻿  ClockWindow.cpp
+ClockWindow.cpp(186): warning C4244: 'argument' : conversion from 'unsigned int' to 'Gdiplus::REAL', possible loss of data
+ClockWindow.cpp(232): warning C4244: 'argument' : conversion from 'unsigned int' to 'Gdiplus::REAL', possible loss of data
+ClockWindow.cpp(234): warning C4244: 'argument' : conversion from 'unsigned int' to 'Gdiplus::REAL', possible loss of data
+  Generating code
+  Finished generating code
+  ColourClockE.vcxproj -> C:\Users\Matthew\Desktop\Sort\#SourceCode\ColourClockE\Release\ColourClockE.exe

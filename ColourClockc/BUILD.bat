@@ -1,0 +1,1 @@
+gcc CCColour.cpp CClock.cpp main.cpp

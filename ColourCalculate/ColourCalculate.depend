@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1373690652 source:c:\users\matthew\documents\development\colourcalculate\main.cpp
+	<iostream>
+	<string>
+	"KColour.h"
+
+1373703913 c:\users\matthew\documents\development\colourcalculate\kcolour.h
+	<string>
+
+1373691168 source:c:\users\matthew\documents\development\colourcalculate\kcolour.cpp
+	"KColour.h"
+

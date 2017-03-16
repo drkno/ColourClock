@@ -1,0 +1,16 @@
+﻿  Win32GDI+.cpp
+Win32GDI+.cpp(141): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\time.inl(112) : see declaration of 'localtime'
+Win32GDI+.cpp(244): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\time.inl(112) : see declaration of 'localtime'
+Win32GDI+.cpp(263): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\time.inl(112) : see declaration of 'localtime'
+Win32GDI+.cpp(294): warning C4800: 'void *' : forcing value to bool 'true' or 'false' (performance warning)
+Win32GDI+.cpp(301): warning C4996: 'getenv': This function or variable may be unsafe. Consider using _dupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdlib.h(433) : see declaration of 'getenv'
+Win32GDI+.cpp(361): warning C4806: '!=' : unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+Win32GDI+.cpp(403): warning C4996: 'getenv': This function or variable may be unsafe. Consider using _dupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdlib.h(433) : see declaration of 'getenv'
+  Generating code
+  Finished generating code
+  Win32GDI+.vcxproj -> C:\Users\Matthew\Documents\Development\Win32GDI+\Release\Win32GDI+.exe

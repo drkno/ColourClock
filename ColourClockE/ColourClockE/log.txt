@@ -1,0 +1,231 @@
+Importing from C:\Users\Matthew\AppData\Roaming\ColourClock\config.xml
+Raw input: <settings>
+Raw input: <colour1>4294901760</colour1>
+Setting 19 to <colour1>4294901760</colour1>
+Raw input: <size1>0,0,50,50</size1>
+Setting 18 to <size1>0,0,50,50</size1>
+Raw input: <shape1>elipse</shape1>
+Setting 17 to <shape1>elipse</shape1>
+Raw input: <colour2>4286381056</colour2>
+Setting 16 to <colour2>4286381056</colour2>
+Raw input: <size2>0,52,50,50</size2>
+Setting 15 to <size2>0,52,50,50</size2>
+Raw input: <shape2>elipse</shape2>
+Setting 14 to <shape2>elipse</shape2>
+Raw input: <colour3>4294967040</colour3>
+Setting 13 to <colour3>4294967040</colour3>
+Raw input: <size3>52,0,50,50</size3>
+Setting 12 to <size3>52,0,50,50</size3>
+Raw input: <shape3>elipse</shape3>
+Setting 11 to <shape3>elipse</shape3>
+Raw input: <colour4>4278190335</colour4>
+Setting 10 to <colour4>4278190335</colour4>
+Raw input: <size4>52,52,50,50</size4>
+Setting 9 to <size4>52,52,50,50</size4>
+Raw input: <shape4>elipse</shape4>
+Setting 8 to <shape4>elipse</shape4>
+Raw input: <displaystring>%24time %ampm - colour clock</displaystring>
+Setting 7 to <displaystring>%24time %ampm - colour clock</displaystring>
+Raw input: <updateicon>1</updateicon>
+Setting 6 to <updateicon>1</updateicon>
+Raw input: <style>borderless</style>
+Setting 0 to <style>borderless</style>
+Raw input: <size0>1254,571,102,102</size0>
+Setting 5 to <size0>1254,571,102,102</size0>
+Raw input: <background>16777215</background>
+Setting 4 to <background>16777215</background>
+Raw input: <outline>5</outline>
+Setting 3 to <outline>5</outline>
+Raw input: <outlinecolour>4278190080</outlinecolour>
+Setting 2 to <outlinecolour>4278190080</outlinecolour>
+Raw input: <alwaysontop>0</alwaysontop>
+Setting 1 to <alwaysontop>0</alwaysontop>
+Raw input: </settings>
+Import Complete - Export Settings
+Window Destroy - Settings Export
+Importing from C:\Users\Matthew\AppData\Roaming\ColourClock\config.xml
+Raw input: <settings>
+Raw input: <colour1>4294901760</colour1>
+Setting 19 to <colour1>4294901760</colour1>
+Raw input: <size1>0,0,50,50</size1>
+Setting 18 to <size1>0,0,50,50</size1>
+Raw input: <shape1>elipse</shape1>
+Setting 17 to <shape1>elipse</shape1>
+Raw input: <colour2>4286381056</colour2>
+Setting 16 to <colour2>4286381056</colour2>
+Raw input: <size2>0,52,50,50</size2>
+Setting 15 to <size2>0,52,50,50</size2>
+Raw input: <shape2>elipse</shape2>
+Setting 14 to <shape2>elipse</shape2>
+Raw input: <colour3>4294967040</colour3>
+Setting 13 to <colour3>4294967040</colour3>
+Raw input: <size3>52,0,50,50</size3>
+Setting 12 to <size3>52,0,50,50</size3>
+Raw input: <shape3>elipse</shape3>
+Setting 11 to <shape3>elipse</shape3>
+Raw input: <colour4>4278190335</colour4>
+Setting 10 to <colour4>4278190335</colour4>
+Raw input: <size4>52,52,50,50</size4>
+Setting 9 to <size4>52,52,50,50</size4>
+Raw input: <shape4>elipse</shape4>
+Setting 8 to <shape4>elipse</shape4>
+Raw input: <displaystring>%24time %ampm - colour clock</displaystring>
+Setting 7 to <displaystring>%24time %ampm - colour clock</displaystring>
+Raw input: <updateicon>1</updateicon>
+Setting 6 to <updateicon>1</updateicon>
+Raw input: <style>borderless</style>
+Setting 0 to <style>borderless</style>
+Raw input: <size0>1254,571,102,102</size0>
+Setting 5 to <size0>1254,571,102,102</size0>
+Raw input: <background>16777215</background>
+Setting 4 to <background>16777215</background>
+Raw input: <outline>5</outline>
+Setting 3 to <outline>5</outline>
+Raw input: <outlinecolour>4278190080</outlinecolour>
+Setting 2 to <outlinecolour>4278190080</outlinecolour>
+Raw input: <alwaysontop>0</alwaysontop>
+Setting 1 to <alwaysontop>0</alwaysontop>
+Raw input: </settings>
+Import Complete - Export Settings
+Window Destroy - Settings Export
+Importing from C:\Users\Matthew\AppData\Roaming\ColourClock\config.xml
+Raw input: <settings>
+Raw input: <colour1>4294901760</colour1>
+Setting 19 to <colour1>4294901760</colour1>
+Raw input: <size1>0,0,50,50</size1>
+Setting 18 to <size1>0,0,50,50</size1>
+Raw input: <shape1>elipse</shape1>
+Setting 17 to <shape1>elipse</shape1>
+Raw input: <colour2>4286381056</colour2>
+Setting 16 to <colour2>4286381056</colour2>
+Raw input: <size2>0,52,50,50</size2>
+Setting 15 to <size2>0,52,50,50</size2>
+Raw input: <shape2>elipse</shape2>
+Setting 14 to <shape2>elipse</shape2>
+Raw input: <colour3>4294967040</colour3>
+Setting 13 to <colour3>4294967040</colour3>
+Raw input: <size3>52,0,50,50</size3>
+Setting 12 to <size3>52,0,50,50</size3>
+Raw input: <shape3>elipse</shape3>
+Setting 11 to <shape3>elipse</shape3>
+Raw input: <colour4>4278190335</colour4>
+Setting 10 to <colour4>4278190335</colour4>
+Raw input: <size4>52,52,50,50</size4>
+Setting 9 to <size4>52,52,50,50</size4>
+Raw input: <shape4>elipse</shape4>
+Setting 8 to <shape4>elipse</shape4>
+Raw input: <displaystring>%24time %ampm - colour clock</displaystring>
+Setting 7 to <displaystring>%24time %ampm - colour clock</displaystring>
+Raw input: <updateicon>1</updateicon>
+Setting 6 to <updateicon>1</updateicon>
+Raw input: <style>borderless</style>
+Setting 0 to <style>borderless</style>
+Raw input: <size0>1254,571,102,102</size0>
+Setting 5 to <size0>1254,571,102,102</size0>
+Raw input: <background>16777215</background>
+Setting 4 to <background>16777215</background>
+Raw input: <outline>5</outline>
+Setting 3 to <outline>5</outline>
+Raw input: <outlinecolour>4278190080</outlinecolour>
+Setting 2 to <outlinecolour>4278190080</outlinecolour>
+Raw input: <alwaysontop>0</alwaysontop>
+Setting 1 to <alwaysontop>0</alwaysontop>
+Raw input: </settings>
+Import Complete - Export Settings
+EXPORT SETTINGS CALLED
+Window Destroy - Settings Export
+EXPORT SETTINGS CALLED
+Importing from C:\Users\Matthew\AppData\Roaming\ColourClock\config.xml
+Raw input: <settings>
+Raw input: <colour1>4294901760</colour1>
+Setting 19 to <colour1>4294901760</colour1>
+Raw input: <size1>0,0,50,50</size1>
+Setting 18 to <size1>0,0,50,50</size1>
+Raw input: <shape1>elipse</shape1>
+Setting 17 to <shape1>elipse</shape1>
+Raw input: <colour2>4286381056</colour2>
+Setting 16 to <colour2>4286381056</colour2>
+Raw input: <size2>0,52,50,50</size2>
+Setting 15 to <size2>0,52,50,50</size2>
+Raw input: <shape2>elipse</shape2>
+Setting 14 to <shape2>elipse</shape2>
+Raw input: <colour3>4294967040</colour3>
+Setting 13 to <colour3>4294967040</colour3>
+Raw input: <size3>52,0,50,50</size3>
+Setting 12 to <size3>52,0,50,50</size3>
+Raw input: <shape3>elipse</shape3>
+Setting 11 to <shape3>elipse</shape3>
+Raw input: <colour4>4278190335</colour4>
+Setting 10 to <colour4>4278190335</colour4>
+Raw input: <size4>52,52,50,50</size4>
+Setting 9 to <size4>52,52,50,50</size4>
+Raw input: <shape4>elipse</shape4>
+Setting 8 to <shape4>elipse</shape4>
+Raw input: <displaystring>%24time %ampm - colour clock</displaystring>
+Setting 7 to <displaystring>%24time %ampm - colour clock</displaystring>
+Raw input: <updateicon>1</updateicon>
+Setting 6 to <updateicon>1</updateicon>
+Raw input: <style>borderless</style>
+Setting 0 to <style>borderless</style>
+Raw input: <size0>1254,571,102,102</size0>
+Setting 5 to <size0>1254,571,102,102</size0>
+Raw input: <background>16777215</background>
+Setting 4 to <background>16777215</background>
+Raw input: <outline>5</outline>
+Setting 3 to <outline>5</outline>
+Raw input: <outlinecolour>4278190080</outlinecolour>
+Setting 2 to <outlinecolour>4278190080</outlinecolour>
+Raw input: <alwaysontop>0</alwaysontop>
+Setting 1 to <alwaysontop>0</alwaysontop>
+Raw input: </settings>
+Import Complete - Export Settings
+EXPORT SETTINGS CALLED
+Window Destroy - Settings Export
+EXPORT SETTINGS CALLED
+Importing from C:\Users\Matthew\AppData\Roaming\ColourClock\config.xml
+Raw input: <settings>
+Raw input: <colour1>4294901760</colour1>
+Setting 19 to <colour1>4294901760</colour1>
+Raw input: <size1>0,0,50,50</size1>
+Setting 18 to <size1>0,0,50,50</size1>
+Raw input: <shape1>elipse</shape1>
+Setting 17 to <shape1>elipse</shape1>
+Raw input: <colour2>4286381056</colour2>
+Setting 16 to <colour2>4286381056</colour2>
+Raw input: <size2>0,52,50,50</size2>
+Setting 15 to <size2>0,52,50,50</size2>
+Raw input: <shape2>elipse</shape2>
+Setting 14 to <shape2>elipse</shape2>
+Raw input: <colour3>4294967040</colour3>
+Setting 13 to <colour3>4294967040</colour3>
+Raw input: <size3>52,0,50,50</size3>
+Setting 12 to <size3>52,0,50,50</size3>
+Raw input: <shape3>elipse</shape3>
+Setting 11 to <shape3>elipse</shape3>
+Raw input: <colour4>4278190335</colour4>
+Setting 10 to <colour4>4278190335</colour4>
+Raw input: <size4>52,52,50,50</size4>
+Setting 9 to <size4>52,52,50,50</size4>
+Raw input: <shape4>elipse</shape4>
+Setting 8 to <shape4>elipse</shape4>
+Raw input: <displaystring>%24time %ampm - colour clock</displaystring>
+Setting 7 to <displaystring>%24time %ampm - colour clock</displaystring>
+Raw input: <updateicon>1</updateicon>
+Setting 6 to <updateicon>1</updateicon>
+Raw input: <style>borderless</style>
+Setting 0 to <style>borderless</style>
+Raw input: <size0>1254,571,102,102</size0>
+Setting 5 to <size0>1254,571,102,102</size0>
+Raw input: <background>16777215</background>
+Setting 4 to <background>16777215</background>
+Raw input: <outline>5</outline>
+Setting 3 to <outline>5</outline>
+Raw input: <outlinecolour>4278190080</outlinecolour>
+Setting 2 to <outlinecolour>4278190080</outlinecolour>
+Raw input: <alwaysontop>0</alwaysontop>
+Setting 1 to <alwaysontop>0</alwaysontop>
+Raw input: </settings>
+Import Complete - Export Settings
+EXPORT SETTINGS CALLED
+Window Destroy - Settings Export
+EXPORT SETTINGS CALLED

@@ -1,0 +1,166 @@
+﻿  ColourClock++.cpp
+c:\users\matthew\documents\development\colourclock++\colourclock++\Form1.h(13): error C2059: syntax error : 'public'
+c:\users\matthew\documents\development\colourclock++\colourclock++\Form1.h(14): error C2059: syntax error : 'public'
+c:\users\matthew\documents\development\colourclock++\colourclock++\Form1.h(14): error C3145: 'C1' : global or static variable may not have managed type 'System::Drawing::Color'
+          the value type may not contain members of managed types
+c:\users\matthew\documents\development\colourclock++\colourclock++\Form1.h(14): error C3145: 'C2' : global or static variable may not have managed type 'System::Drawing::Color'
+          the value type may not contain members of managed types
+c:\users\matthew\documents\development\colourclock++\colourclock++\Form1.h(14): error C3145: 'C3' : global or static variable may not have managed type 'System::Drawing::Color'
+          the value type may not contain members of managed types
+c:\users\matthew\documents\development\colourclock++\colourclock++\Form1.h(14): error C3145: 'C4' : global or static variable may not have managed type 'System::Drawing::Color'
+          the value type may not contain members of managed types
+c:\users\matthew\documents\development\colourclock++\colourclock++\Form1.h(15): error C2059: syntax error : 'public'
+c:\users\matthew\documents\development\colourclock++\colourclock++\Form1.h(18): error C2059: syntax error : 'public'
+c:\users\matthew\documents\development\colourclock++\colourclock++\Form1.h(18): warning C4091: '' : ignored on left of 'int' when no variable is declared
+c:\users\matthew\documents\development\colourclock++\colourclock++\Form1.h(18): error C2143: syntax error : missing ';' before '['
+c:\users\matthew\documents\development\colourclock++\colourclock++\Form1.h(18): error C3409: empty attribute block is not allowed
+c:\users\matthew\documents\development\colourclock++\colourclock++\Form1.h(18): error C2470: 'lights' : looks like a function definition, but there is no parameter list; skipping apparent body
+c:\users\matthew\documents\development\colourclock++\colourclock++\Form1.h(18): error C2059: syntax error : '='
+c:\users\matthew\documents\development\colourclock++\colourclock++\Form1.h(19): error C2059: syntax error : 'public'
+c:\users\matthew\documents\development\colourclock++\colourclock++\Form1.h(19): error C2039: 'Graphics' : is not a member of 'System'
+c:\users\matthew\documents\development\colourclock++\colourclock++\Form1.h(19): error C3145: 'paper' : global or static variable may not have managed type 'System::Drawing::Graphics'
+          may not declare a global or static variable, or a member of a native type that refers to objects in the gc heap
+c:\users\matthew\documents\development\colourclock++\colourclock++\Form1.h(19): error C2512: 'System::Drawing::Graphics::Graphics' : no appropriate default constructor available
+c:\users\matthew\documents\development\colourclock++\colourclock++\Form1.h(19): error C2039: '{dtor}' : is not a member of 'System::IDisposable'
+          c:\program files (x86)\reference assemblies\microsoft\framework\.netframework\v4.0\mscorlib.dll : see declaration of 'System::IDisposable'
+c:\users\matthew\documents\development\colourclock++\colourclock++\Form1.h(22): error C2337: 'System' : attribute not found
+c:\users\matthew\documents\development\colourclock++\colourclock++\Form1.h(22): error C2143: syntax error : missing ']' before '.'
+c:\users\matthew\documents\development\colourclock++\colourclock++\Form1.h(22): error C2059: syntax error : '.'
+c:\users\matthew\documents\development\colourclock++\colourclock++\Form1.h(23): error C2159: more than one storage class specified
+c:\users\matthew\documents\development\colourclock++\colourclock++\Form1.h(24): error C2337: 'System' : attribute not found
+c:\users\matthew\documents\development\colourclock++\colourclock++\Form1.h(24): error C2143: syntax error : missing ']' before '.'
+c:\users\matthew\documents\development\colourclock++\colourclock++\Form1.h(24): error C2059: syntax error : '.'
+c:\users\matthew\documents\development\colourclock++\colourclock++\Form1.h(25): error C2159: more than one storage class specified
+c:\users\matthew\documents\development\colourclock++\colourclock++\Form1.h(28): error C2337: 'System' : attribute not found
+c:\users\matthew\documents\development\colourclock++\colourclock++\Form1.h(28): error C2143: syntax error : missing ']' before '.'
+c:\users\matthew\documents\development\colourclock++\colourclock++\Form1.h(28): error C2059: syntax error : '.'
+c:\users\matthew\documents\development\colourclock++\colourclock++\Form1.h(29): error C2143: syntax error : missing ';' before '.'
+c:\users\matthew\documents\development\colourclock++\colourclock++\Form1.h(29): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\matthew\documents\development\colourclock++\colourclock++\Form1.h(30): error C2159: more than one storage class specified
+c:\users\matthew\documents\development\colourclock++\colourclock++\Form1.h(36): error C2143: syntax error : missing ';' before '.'
+c:\users\matthew\documents\development\colourclock++\colourclock++\Form1.h(36): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\matthew\documents\development\colourclock++\colourclock++\Form1.h(36): error C2086: 'int ColourClock::System' : redefinition
+          c:\users\matthew\documents\development\colourclock++\colourclock++\Form1.h(29) : see declaration of 'ColourClock::System'
+c:\users\matthew\documents\development\colourclock++\colourclock++\Form1.h(277): error C2018: unknown character '0x40'
+c:\users\matthew\documents\development\colourclock++\colourclock++\Form1.h(277): warning C4129: 'C' : unrecognized character escape sequence
+c:\users\matthew\documents\development\colourclock++\colourclock++\Form1.h(277): warning C4129: 's' : unrecognized character escape sequence
+c:\users\matthew\documents\development\colourclock++\colourclock++\Form1.h(278): error C2018: unknown character '0x40'
+c:\users\matthew\documents\development\colourclock++\colourclock++\Form1.h(278): warning C4129: 'C' : unrecognized character escape sequence
+c:\users\matthew\documents\development\colourclock++\colourclock++\Form1.h(278): warning C4129: 's' : unrecognized character escape sequence
+c:\users\matthew\documents\development\colourclock++\colourclock++\Form1.h(364): error C2146: syntax error : missing ';' before identifier 'GetKnownColor'
+c:\users\matthew\documents\development\colourclock++\colourclock++\Form1.h(364): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\matthew\documents\development\colourclock++\colourclock++\Form1.h(365): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\matthew\documents\development\colourclock++\colourclock++\Form1.h(377): warning C4183: 'GetKnownColor': missing return type; assumed to be a member function returning 'int'
+c:\users\matthew\documents\development\colourclock++\colourclock++\Form1.h(105): error C2228: left of '.Refresh' must have class/struct/union
+          type is 'ColourClock::Form1 ^const '
+          did you intend to use '->' instead?
+c:\users\matthew\documents\development\colourclock++\colourclock++\Form1.h(113): warning C4832: token '.' is illegal after UDT 'System::Drawing::Color'
+          c:\program files (x86)\reference assemblies\microsoft\framework\.netframework\v4.0\system.drawing.dll : see declaration of 'System::Drawing::Color'
+c:\users\matthew\documents\development\colourclock++\colourclock++\Form1.h(113): error C2275: 'System::Drawing::Color' : illegal use of this type as an expression
+          c:\program files (x86)\reference assemblies\microsoft\framework\.netframework\v4.0\system.drawing.dll : see declaration of 'System::Drawing::Color'
+c:\users\matthew\documents\development\colourclock++\colourclock++\Form1.h(113): error C2228: left of '.Black' must have class/struct/union
+c:\users\matthew\documents\development\colourclock++\colourclock++\Form1.h(148): error C2065: 'lights' : undeclared identifier
+c:\users\matthew\documents\development\colourclock++\colourclock++\Form1.h(158): error C2750: 'System::Drawing::SolidBrush' : cannot use 'new' on the reference type; use 'gcnew' instead
+c:\users\matthew\documents\development\colourclock++\colourclock++\Form1.h(158): error C2664: 'void System::Drawing::Graphics::FillEllipse(System::Drawing::Brush ^,float,float,float,float)' : cannot convert parameter 1 from 'System::Drawing::SolidBrush *' to 'System::Drawing::Brush ^'
+          No user-defined-conversion operator available, or
+          Cannot convert an unmanaged type to a managed type
+c:\users\matthew\documents\development\colourclock++\colourclock++\Form1.h(159): error C2750: 'System::Drawing::SolidBrush' : cannot use 'new' on the reference type; use 'gcnew' instead
+c:\users\matthew\documents\development\colourclock++\colourclock++\Form1.h(159): error C2664: 'void System::Drawing::Graphics::FillRectangle(System::Drawing::Brush ^,float,float,float,float)' : cannot convert parameter 1 from 'System::Drawing::SolidBrush *' to 'System::Drawing::Brush ^'
+          No user-defined-conversion operator available, or
+          Cannot convert an unmanaged type to a managed type
+c:\users\matthew\documents\development\colourclock++\colourclock++\Form1.h(160): error C2750: 'System::Drawing::Pen' : cannot use 'new' on the reference type; use 'gcnew' instead
+c:\users\matthew\documents\development\colourclock++\colourclock++\Form1.h(160): error C2664: 'void System::Drawing::Graphics::DrawEllipse(System::Drawing::Pen ^,float,float,float,float)' : cannot convert parameter 1 from 'System::Drawing::Pen *' to 'System::Drawing::Pen ^'
+          No user-defined-conversion operator available, or
+          Cannot convert an unmanaged type to a managed type
+c:\users\matthew\documents\development\colourclock++\colourclock++\Form1.h(161): error C2750: 'System::Drawing::Pen' : cannot use 'new' on the reference type; use 'gcnew' instead
+c:\users\matthew\documents\development\colourclock++\colourclock++\Form1.h(161): error C2664: 'void System::Drawing::Graphics::DrawRectangle(System::Drawing::Pen ^,float,float,float,float)' : cannot convert parameter 1 from 'System::Drawing::Pen *' to 'System::Drawing::Pen ^'
+          No user-defined-conversion operator available, or
+          Cannot convert an unmanaged type to a managed type
+c:\users\matthew\documents\development\colourclock++\colourclock++\Form1.h(170): error C2228: left of '.InvokeRequired' must have class/struct/union
+          type is 'ColourClock::Form1 ^const '
+          did you intend to use '->' instead?
+c:\users\matthew\documents\development\colourclock++\colourclock++\Form1.h(172): error C2228: left of '.BeginInvoke' must have class/struct/union
+          type is 'ColourClock::Form1 ^const '
+          did you intend to use '->' instead?
+c:\users\matthew\documents\development\colourclock++\colourclock++\Form1.h(172): error C3867: 'ColourClock::Form1::SetWindowTitle': function call missing argument list; use '&ColourClock::Form1::SetWindowTitle' to create a pointer to member
+c:\users\matthew\documents\development\colourclock++\colourclock++\Form1.h(172): error C2750: 'ColourClock::Invoker' : cannot use 'new' on the reference type; use 'gcnew' instead
+c:\users\matthew\documents\development\colourclock++\colourclock++\Form1.h(172): error C3350: 'ColourClock::Invoker' : a delegate constructor expects 2 argument(s)
+c:\users\matthew\documents\development\colourclock++\colourclock++\Form1.h(176): error C2228: left of '.Refresh' must have class/struct/union
+          type is 'ColourClock::Form1 ^const '
+          did you intend to use '->' instead?
+c:\users\matthew\documents\development\colourclock++\colourclock++\Form1.h(178): error C2065: 'string' : undeclared identifier
+c:\users\matthew\documents\development\colourclock++\colourclock++\Form1.h(178): error C2146: syntax error : missing ';' before identifier 'time'
+c:\users\matthew\documents\development\colourclock++\colourclock++\Form1.h(178): error C2065: 'time' : undeclared identifier
+c:\users\matthew\documents\development\colourclock++\colourclock++\Form1.h(181): error C2065: 'lights' : undeclared identifier
+c:\users\matthew\documents\development\colourclock++\colourclock++\Form1.h(181): error C2065: 'lights' : undeclared identifier
+c:\users\matthew\documents\development\colourclock++\colourclock++\Form1.h(182): error C2065: 'lights' : undeclared identifier
+c:\users\matthew\documents\development\colourclock++\colourclock++\Form1.h(182): error C2065: 'lights' : undeclared identifier
+c:\users\matthew\documents\development\colourclock++\colourclock++\Form1.h(183): error C2065: 'time' : undeclared identifier
+c:\users\matthew\documents\development\colourclock++\colourclock++\Form1.h(183): error C2065: 'time' : undeclared identifier
+c:\users\matthew\documents\development\colourclock++\colourclock++\Form1.h(184): error C2059: syntax error : '.'
+c:\users\matthew\documents\development\colourclock++\colourclock++\Form1.h(185): error C2143: syntax error : missing ';' before '{'
+c:\users\matthew\documents\development\colourclock++\colourclock++\Form1.h(187): error C2065: 'time' : undeclared identifier
+c:\users\matthew\documents\development\colourclock++\colourclock++\Form1.h(187): error C2065: 'time' : undeclared identifier
+c:\users\matthew\documents\development\colourclock++\colourclock++\Form1.h(189): error C2181: illegal else without matching if
+c:\users\matthew\documents\development\colourclock++\colourclock++\Form1.h(191): error C2065: 'time' : undeclared identifier
+c:\users\matthew\documents\development\colourclock++\colourclock++\Form1.h(191): error C2065: 'time' : undeclared identifier
+c:\users\matthew\documents\development\colourclock++\colourclock++\Form1.h(195): error C2065: 'time' : undeclared identifier
+c:\users\matthew\documents\development\colourclock++\colourclock++\Form1.h(195): error C2065: 'time' : undeclared identifier
+c:\users\matthew\documents\development\colourclock++\colourclock++\Form1.h(199): error C2065: 'time' : undeclared identifier
+c:\users\matthew\documents\development\colourclock++\colourclock++\Form1.h(199): error C2065: 'time' : undeclared identifier
+c:\users\matthew\documents\development\colourclock++\colourclock++\Form1.h(202): error C2228: left of '.Text' must have class/struct/union
+          type is 'ColourClock::Form1 ^const '
+          did you intend to use '->' instead?
+c:\users\matthew\documents\development\colourclock++\colourclock++\Form1.h(202): error C2065: 'time' : undeclared identifier
+c:\users\matthew\documents\development\colourclock++\colourclock++\Form1.h(209): error C2143: syntax error : missing ')' before '.'
+c:\users\matthew\documents\development\colourclock++\colourclock++\Form1.h(209): error C2059: syntax error : '.'
+c:\users\matthew\documents\development\colourclock++\colourclock++\Form1.h(209): error C2059: syntax error : ')'
+c:\users\matthew\documents\development\colourclock++\colourclock++\Form1.h(211): warning C4832: token '.' is illegal after UDT 'System::DateTime'
+          c:\program files (x86)\reference assemblies\microsoft\framework\.netframework\v4.0\mscorlib.dll : see declaration of 'System::DateTime'
+c:\users\matthew\documents\development\colourclock++\colourclock++\Form1.h(211): error C2275: 'System::DateTime' : illegal use of this type as an expression
+          c:\program files (x86)\reference assemblies\microsoft\framework\.netframework\v4.0\mscorlib.dll : see declaration of 'System::DateTime'
+c:\users\matthew\documents\development\colourclock++\colourclock++\Form1.h(211): error C2228: left of '.Now' must have class/struct/union
+c:\users\matthew\documents\development\colourclock++\colourclock++\Form1.h(211): error C2228: left of '.Year' must have class/struct/union
+c:\users\matthew\documents\development\colourclock++\colourclock++\Form1.h(211): warning C4832: token '.' is illegal after UDT 'System::DateTime'
+          c:\program files (x86)\reference assemblies\microsoft\framework\.netframework\v4.0\mscorlib.dll : see declaration of 'System::DateTime'
+c:\users\matthew\documents\development\colourclock++\colourclock++\Form1.h(211): error C2275: 'System::DateTime' : illegal use of this type as an expression
+          c:\program files (x86)\reference assemblies\microsoft\framework\.netframework\v4.0\mscorlib.dll : see declaration of 'System::DateTime'
+c:\users\matthew\documents\development\colourclock++\colourclock++\Form1.h(211): error C2228: left of '.Now' must have class/struct/union
+c:\users\matthew\documents\development\colourclock++\colourclock++\Form1.h(211): error C2228: left of '.Month' must have class/struct/union
+c:\users\matthew\documents\development\colourclock++\colourclock++\Form1.h(211): warning C4832: token '.' is illegal after UDT 'System::DateTime'
+          c:\program files (x86)\reference assemblies\microsoft\framework\.netframework\v4.0\mscorlib.dll : see declaration of 'System::DateTime'
+c:\users\matthew\documents\development\colourclock++\colourclock++\Form1.h(211): error C2275: 'System::DateTime' : illegal use of this type as an expression
+          c:\program files (x86)\reference assemblies\microsoft\framework\.netframework\v4.0\mscorlib.dll : see declaration of 'System::DateTime'
+c:\users\matthew\documents\development\colourclock++\colourclock++\Form1.h(211): error C2228: left of '.Now' must have class/struct/union
+c:\users\matthew\documents\development\colourclock++\colourclock++\Form1.h(211): error C2228: left of '.Day' must have class/struct/union
+c:\users\matthew\documents\development\colourclock++\colourclock++\Form1.h(211): warning C4832: token '.' is illegal after UDT 'System::DateTime'
+          c:\program files (x86)\reference assemblies\microsoft\framework\.netframework\v4.0\mscorlib.dll : see declaration of 'System::DateTime'
+c:\users\matthew\documents\development\colourclock++\colourclock++\Form1.h(211): error C2275: 'System::DateTime' : illegal use of this type as an expression
+          c:\program files (x86)\reference assemblies\microsoft\framework\.netframework\v4.0\mscorlib.dll : see declaration of 'System::DateTime'
+c:\users\matthew\documents\development\colourclock++\colourclock++\Form1.h(211): error C2228: left of '.Now' must have class/struct/union
+c:\users\matthew\documents\development\colourclock++\colourclock++\Form1.h(211): error C2228: left of '.Hour' must have class/struct/union
+c:\users\matthew\documents\development\colourclock++\colourclock++\Form1.h(211): warning C4832: token '.' is illegal after UDT 'System::DateTime'
+          c:\program files (x86)\reference assemblies\microsoft\framework\.netframework\v4.0\mscorlib.dll : see declaration of 'System::DateTime'
+c:\users\matthew\documents\development\colourclock++\colourclock++\Form1.h(211): error C2275: 'System::DateTime' : illegal use of this type as an expression
+          c:\program files (x86)\reference assemblies\microsoft\framework\.netframework\v4.0\mscorlib.dll : see declaration of 'System::DateTime'
+c:\users\matthew\documents\development\colourclock++\colourclock++\Form1.h(211): error C2228: left of '.Now' must have class/struct/union
+c:\users\matthew\documents\development\colourclock++\colourclock++\Form1.h(211): error C2228: left of '.Minute' must have class/struct/union
+c:\users\matthew\documents\development\colourclock++\colourclock++\Form1.h(211): error C3255: 'System::DateTime' : cannot dynamically allocate this value type object on native heap
+          only simple value types are allowed
+c:\users\matthew\documents\development\colourclock++\colourclock++\Form1.h(211): error C2143: syntax error : missing ';' before '.'
+c:\users\matthew\documents\development\colourclock++\colourclock++\Form1.h(211): error C2143: syntax error : missing ';' before '.'
+c:\users\matthew\documents\development\colourclock++\colourclock++\Form1.h(212): warning C4832: token '.' is illegal after UDT 'System::DateTime'
+          c:\program files (x86)\reference assemblies\microsoft\framework\.netframework\v4.0\mscorlib.dll : see declaration of 'System::DateTime'
+c:\users\matthew\documents\development\colourclock++\colourclock++\Form1.h(212): error C2275: 'System::DateTime' : illegal use of this type as an expression
+          c:\program files (x86)\reference assemblies\microsoft\framework\.netframework\v4.0\mscorlib.dll : see declaration of 'System::DateTime'
+c:\users\matthew\documents\development\colourclock++\colourclock++\Form1.h(212): error C2228: left of '.Now' must have class/struct/union
+c:\users\matthew\documents\development\colourclock++\colourclock++\Form1.h(213): warning C4832: token '.' is illegal after UDT 'System::TimeSpan'
+          c:\program files (x86)\reference assemblies\microsoft\framework\.netframework\v4.0\mscorlib.dll : see declaration of 'System::TimeSpan'
+c:\users\matthew\documents\development\colourclock++\colourclock++\Form1.h(213): error C2275: 'System::TimeSpan' : illegal use of this type as an expression
+          c:\program files (x86)\reference assemblies\microsoft\framework\.netframework\v4.0\mscorlib.dll : see declaration of 'System::TimeSpan'
+c:\users\matthew\documents\development\colourclock++\colourclock++\Form1.h(213): error C2228: left of '.FromSeconds' must have class/struct/union
+c:\users\matthew\documents\development\colourclock++\colourclock++\Form1.h(215): warning C4832: token '.' is illegal after UDT 'System::TimeSpan'
+          c:\program files (x86)\reference assemblies\microsoft\framework\.netframework\v4.0\mscorlib.dll : see declaration of 'System::TimeSpan'
+c:\users\matthew\documents\development\colourclock++\colourclock++\Form1.h(215): error C2275: 'System::TimeSpan' : illegal use of this type as an expression
+          c:\program files (x86)\reference assemblies\microsoft\framework\.netframework\v4.0\mscorlib.dll : see declaration of 'System::TimeSpan'
+c:\users\matthew\documents\development\colourclock++\colourclock++\Form1.h(215): fatal error C1003: error count exceeds 100; stopping compilation

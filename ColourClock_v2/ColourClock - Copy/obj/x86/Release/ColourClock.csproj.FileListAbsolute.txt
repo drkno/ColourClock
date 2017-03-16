@@ -1,0 +1,32 @@
+C:\Users\Matthew\Documents\Visual Studio 2010\Projects\ColourClock\ColourClock\bin\Release\ColourClock.exe
+C:\Users\Matthew\Documents\Visual Studio 2010\Projects\ColourClock\ColourClock\bin\Release\ColourClock.pdb
+C:\Users\Matthew\Documents\Visual Studio 2010\Projects\ColourClock\ColourClock\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Matthew\Documents\Visual Studio 2010\Projects\ColourClock\ColourClock\obj\x86\Release\ColourClock.ColourClock.resources
+C:\Users\Matthew\Documents\Visual Studio 2010\Projects\ColourClock\ColourClock\obj\x86\Release\ColourClock.Properties.Resources.resources
+C:\Users\Matthew\Documents\Visual Studio 2010\Projects\ColourClock\ColourClock\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Matthew\Documents\Visual Studio 2010\Projects\ColourClock\ColourClock\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Matthew\Documents\Visual Studio 2010\Projects\ColourClock\ColourClock\obj\x86\Release\ColourClock.exe
+C:\Users\Matthew\Documents\Visual Studio 2010\Projects\ColourClock\ColourClock\obj\x86\Release\ColourClock.pdb
+C:\Users\Matthew\Documents\Visual Studio 2010\Projects\ColourClock\ColourClock\obj\x86\Release\ColourClock.AboutBox.resources
+C:\Users\Matthew\Documents\Visual Studio 2010\Projects\ColourClock_v2\ColourClock\obj\x86\Release\ColourClock.exe
+C:\Users\Matthew\Documents\Visual Studio 2010\Projects\ColourClock_v2\ColourClock\obj\x86\Release\ColourClock.pdb
+C:\Users\Matthew\Documents\Visual Studio 2010\Projects\ColourClock_v2\ColourClock\bin\Release\ColourClock.exe
+C:\Users\Matthew\Documents\Visual Studio 2010\Projects\ColourClock_v2\ColourClock\bin\Release\ColourClock.pdb
+C:\Users\Matthew\Documents\Visual Studio 2010\Projects\ColourClock_v2\ColourClock\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Matthew\Documents\Visual Studio 2010\Projects\ColourClock_v2\ColourClock\obj\x86\Release\ColourClock.AboutBox.resources
+C:\Users\Matthew\Documents\Visual Studio 2010\Projects\ColourClock_v2\ColourClock\obj\x86\Release\ColourClock.ColourClock.resources
+C:\Users\Matthew\Documents\Visual Studio 2010\Projects\ColourClock_v2\ColourClock\obj\x86\Release\ColourClock.Properties.Resources.resources
+C:\Users\Matthew\Documents\Visual Studio 2010\Projects\ColourClock_v2\ColourClock\obj\x86\Release\ColourClock.Settings.resources
+C:\Users\Matthew\Documents\Visual Studio 2010\Projects\ColourClock_v2\ColourClock\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Matthew\Documents\Visual Studio 2010\Projects\ColourClock_v2\ColourClock\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Matthew\Documents\Development\ColourClock_v2\ColourClock\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Matthew\Documents\Development\ColourClock_v2\ColourClock\obj\x86\Release\ColourClock.ColourClock.resources
+C:\Users\Matthew\Documents\Development\ColourClock_v2\ColourClock\obj\x86\Release\ColourClock.Properties.Resources.resources
+C:\Users\Matthew\Documents\Development\ColourClock_v2\ColourClock\obj\x86\Release\ColourClock.Settings.resources
+C:\Users\Matthew\Documents\Development\ColourClock_v2\ColourClock\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Matthew\Documents\Development\ColourClock_v2\ColourClock\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Matthew\Documents\Development\ColourClock_v2\ColourClock\bin\Release\ColourClock.exe.config
+C:\Users\Matthew\Documents\Development\ColourClock_v2\ColourClock\bin\Release\ColourClock.exe
+C:\Users\Matthew\Documents\Development\ColourClock_v2\ColourClock\bin\Release\ColourClock.pdb
+C:\Users\Matthew\Documents\Development\ColourClock_v2\ColourClock\obj\x86\Release\ColourClock.exe
+C:\Users\Matthew\Documents\Development\ColourClock_v2\ColourClock\obj\x86\Release\ColourClock.pdb

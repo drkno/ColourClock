@@ -1,0 +1,31 @@
+2.0.2
+- Further shrunk control buttons
+- LTE Edition updated
+
+2.0.1
+- Minor Bugfixes
+- Colour Clock config editor released
+- Taskbar and Minimising issues on vista and below fixed
+
+2.0
+- Code Shrunk (Dramatically) + Efficiancy
+- New Settings/About Window
+- Shrunk Close/About/Minimise buttons
+
+1.01 Release
+- FIXED (I hope): Time not displayed correctly in taskbar
+- Added window location saving support
+- Added 2 more shapes
+- Drastic recoding for better efficiancy and better control
+- LTE Edition Updated to support settings changes (Branch source merge)
+
+1.01 Beta
+- Shape Support
+- More Settings
+- Adjustable Size
+- Saveable settings
+
+1.01 Alpha (Branch from LTE Edition)
+- Added support for settings
+
+1.0 - Initial Release!

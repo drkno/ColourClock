@@ -1,0 +1,10 @@
+C:\Users\Matthew\Documents\Visual Studio 2010\Projects\ColourClock\ColourClock\bin\Debug\ColourClock.exe
+C:\Users\Matthew\Documents\Visual Studio 2010\Projects\ColourClock\ColourClock\bin\Debug\ColourClock.pdb
+C:\Users\Matthew\Documents\Visual Studio 2010\Projects\ColourClock\ColourClock\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Matthew\Documents\Visual Studio 2010\Projects\ColourClock\ColourClock\obj\x86\Debug\ColourClock.ColourClock.resources
+C:\Users\Matthew\Documents\Visual Studio 2010\Projects\ColourClock\ColourClock\obj\x86\Debug\ColourClock.Properties.Resources.resources
+C:\Users\Matthew\Documents\Visual Studio 2010\Projects\ColourClock\ColourClock\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Matthew\Documents\Visual Studio 2010\Projects\ColourClock\ColourClock\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Matthew\Documents\Visual Studio 2010\Projects\ColourClock\ColourClock\obj\x86\Debug\ColourClock.exe
+C:\Users\Matthew\Documents\Visual Studio 2010\Projects\ColourClock\ColourClock\obj\x86\Debug\ColourClock.pdb
+C:\Users\Matthew\Documents\Visual Studio 2010\Projects\ColourClock\ColourClock\obj\x86\Debug\ColourClock.AboutBox.resources

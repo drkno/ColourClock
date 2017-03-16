@@ -1,0 +1,10 @@
+C:\Users\Matthew\Documents\Development\ColourClock ConfigEditor\ColourClock\bin\Release\ColourClockEditor.exe
+C:\Users\Matthew\Documents\Development\ColourClock ConfigEditor\ColourClock\bin\Release\ColourClockEditor.pdb
+C:\Users\Matthew\Documents\Development\ColourClock ConfigEditor\ColourClock\obj\x86\Release\ColourClock.Agreement.resources
+C:\Users\Matthew\Documents\Development\ColourClock ConfigEditor\ColourClock\obj\x86\Release\ColourClock.ColourClock.resources
+C:\Users\Matthew\Documents\Development\ColourClock ConfigEditor\ColourClock\obj\x86\Release\ColourClock.Properties.Resources.resources
+C:\Users\Matthew\Documents\Development\ColourClock ConfigEditor\ColourClock\obj\x86\Release\ColourClock.Settings.resources
+C:\Users\Matthew\Documents\Development\ColourClock ConfigEditor\ColourClock\obj\x86\Release\ColourClockEditor.exe
+C:\Users\Matthew\Documents\Development\ColourClock ConfigEditor\ColourClock\obj\x86\Release\ColourClockEditor.pdb
+C:\Users\Matthew\Documents\Development\ColourClock ConfigEditor\ColourClock\obj\x86\Release\ColourClock_Config.csprojResolveAssemblyReference.cache
+C:\Users\Matthew\Documents\Development\ColourClock ConfigEditor\ColourClock\obj\x86\Release\ColourClock_Config.csproj.GenerateResource.Cache
